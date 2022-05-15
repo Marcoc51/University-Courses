@@ -1,5 +1,9 @@
-## Decisions-Analysis
-It's a university module about AI Algorithms and python tasks solutions
+## University-Courses
+This is for University modules Tasks and their solutions.
 
-- The First Section Task:<br>
-&nbsp;&nbsp;&nbsp;It's about how to use python conditions, loops and functions
+#### 1. Decisions Analysis:-<br>
+- The First Section Task: It's about how to use python conditions, loops and functions.
+
+#### 2. Internet Programming:-<br>
+- First Task: It's about HTML Lists.
+- Second Task: It's about HTML Table.
