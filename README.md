@@ -13,3 +13,4 @@ It's a module about basics of HTML and CSS
 #### 3. Microprocessor:-<br>
 It's a module about FPGAs and how to design circuits using VHDL
 - First Task: It's about how to test a designed circuit by writing a test bench code.
+- Second Task: It's about how to design a counter using VHDL and test the code by writing a test bench code and generate the wave form.
